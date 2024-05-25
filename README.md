@@ -1,6 +1,6 @@
 # Pathfinding Visualizer
 
-Shortest-Path Finder algorithm built using HTML,CSS and JS
+Shortest-Path Finder algorithm built using HTML,CSS and JS.
 
 ##  Algorithms
 
